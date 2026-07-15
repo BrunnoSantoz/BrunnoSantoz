@@ -44,13 +44,11 @@ Aqui estão as tecnologias que uso:
 ---
 ## 🤝 Meus Contatos:
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/bruno-dos-santos-41b97929a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:brunoonline00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div> 
+  <a href = "mailto:brunoonline00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-dos-santos-41b97929a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/dev.brunn0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
 
 <p align="center"><i>"A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs</i></p>
