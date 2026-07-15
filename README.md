@@ -45,7 +45,7 @@ Aqui estão as tecnologias que uso:
 ## 🤝 Meus Contatos:
 
 <p align="left">
-  <a href="www.linkedin.com/in/bruno-dos-santos-41b97929a" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/bruno-dos-santos-41b97929a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:brunoonline00@gmail.com" target="_blank">
