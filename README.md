@@ -21,7 +21,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Estou no início da minha jornada no desen
 
 Aqui estão as tecnologias que uso:
 
-### Frontend/Back-end
+### Front-end/Back-end
 <div style="display: inline_block"><br>
 <img align="center" alt="BrunnoSantoz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img align="center" alt="BrunnoSantoz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
