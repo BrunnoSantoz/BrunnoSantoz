@@ -1,4 +1,4 @@
-# Olá! Eu sou o Bruno 👋
+# Olá! Eu sou o Brunno 👋
 
 Bem-vindo(a) ao meu perfil do GitHub! Estou no início da minha jornada no desenvolvimento de software e usando este espaço para registrar minha evolução e expor meus projetos práticos.
 ---
@@ -13,7 +13,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Estou no início da minha jornada no desen
 ## 📌 Sobre Mim
 - 🏫 Estudando na **[Universidade Católica do Salvador - UCSal]**.
 - 🎯 Meu objetivo atual é dominar os fundamentos do **Desenvolvimento Web**.
-- ⚡ Curiosidades: [gosto de malhar/ eu amo café / música para mim é terapia].
+- ⚡ Curiosidades: [gosto de malhar/ sou fã de café / odeio barulho, mas amo música alta].
 
 ---
 
@@ -21,11 +21,12 @@ Bem-vindo(a) ao meu perfil do GitHub! Estou no início da minha jornada no desen
 
 Aqui estão as tecnologias que uso:
 
-### Frontend/BACK-END
+### Frontend/Back-end
 <div style="display: inline_block"><br>
 <img align="center" alt="BrunnoSantoz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img align="center" alt="BrunnoSantoz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="BrunnoSantoz-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="BrunnoSantoz-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
 
 ### Ferramentas e Organização
